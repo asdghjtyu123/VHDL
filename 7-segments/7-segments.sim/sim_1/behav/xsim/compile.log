@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ADMIN/Desktop/VHDL/7-segments/7-segments.srcs/sources_1/new/SOURCE.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SOURCE'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ADMIN/Desktop/VHDL/7-segments/7-segments.srcs/sim_1/new/sync_upcounter_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sync_upcounter_tb'

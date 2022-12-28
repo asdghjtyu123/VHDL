@@ -1,0 +1,1 @@
+-wto "f0b22fdb7969416d8cc3d1bc815b349f" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "example_signed_unsigned_tb_behav" "xil_defaultlib.example_signed_unsigned_tb" -log "elaborate.log" 

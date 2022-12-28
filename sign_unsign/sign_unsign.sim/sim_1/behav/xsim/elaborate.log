@@ -1,0 +1,8 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: E:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto f0b22fdb7969416d8cc3d1bc815b349f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot example_signed_unsigned_tb_behav xil_defaultlib.example_signed_unsigned_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-4940] 'example_signed_unsigned' remains a black box since it has no binding entity [C:/Users/ADMIN/Desktop/VHDL/sign_unsign/sign_unsign.srcs/sim_1/new/example_signed_unsigned_tb.vhd:30]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

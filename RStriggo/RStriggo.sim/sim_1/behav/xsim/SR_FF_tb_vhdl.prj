@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../RStriggo.srcs/sources_1/new/SR_FLIPFLOP_SOURCE.vhd" \
+"../../../../RStriggo.srcs/sim_1/new/SR_FF_tb.vhd" \
+
+# Do not sort compile order
+nosort
